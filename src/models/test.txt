@@ -1,0 +1,8 @@
+This folder contains all the models necessary for the project, like user.model.js, booking.model.js, etc.
+for my ride sharing app
+
+## Models
+
+- User
+- BookingsHistory
+- Bookings

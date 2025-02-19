@@ -1,0 +1,1 @@
+This folder used to setup zod for schema validation in the project. It is not required for the project to run. It is just for the developer to understand the schema validation. 
